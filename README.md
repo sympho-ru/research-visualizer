@@ -6,7 +6,7 @@ When you run quantitative researches through external agencies, they commonly gi
 
 SPSS is very expensive, requires skills, and may be an overkill for most tasks.
 
-The tool uses raw CSV data to create HTML visualizations.
+The tool uses raw CSV data exported from SAV to create HTML visualizations.
 
 ## How to use
 
