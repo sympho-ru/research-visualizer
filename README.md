@@ -2,7 +2,7 @@
 Simple HTML visualization of the quantitative research results
 
 ## Motivation
-When you run quantitative researches through external agencies, they commonly give you the SAV file that is meant to be used by the SPSS package.
+When you run quantitative researches through external agencies, they commonly give you the SAV file (format used by the IBM SPSS software package).
 
 SPSS is very expensive, requires skills, and may be an overkill for most tasks.
 
@@ -16,7 +16,7 @@ The usage is as follows:
 
 <ol>
   <li>
-    Load the SAVE file in PSPP.
+    Load the SAV file in PSPP.
   </li>
   <li>
     Export the data to CSV through running the following commands (syntaxes):
